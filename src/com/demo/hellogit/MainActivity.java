@@ -12,6 +12,13 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 	}
+	
+	/**
+	*登录
+	*/
+	public void login(){
+		//李四添加了登录的方法
+	}
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
